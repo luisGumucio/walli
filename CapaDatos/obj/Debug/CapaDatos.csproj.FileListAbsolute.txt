@@ -1,0 +1,13 @@
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\CapaModelos.dll
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\CapaModelos.pdb
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\lucho\source\repos\Walli\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.pdb
