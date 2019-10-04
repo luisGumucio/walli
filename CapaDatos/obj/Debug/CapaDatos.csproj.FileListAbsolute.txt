@@ -11,3 +11,16 @@ C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyRe
 C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\lucho\source\repos\Walli\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\CapaModelos.dll
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\EntityFramework.dll
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\CapaModelos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\EntityFramework.xml
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAREA PROGRA\PollosWalli\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\TAREA PROGRA\PollosWalli\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\TAREA PROGRA\PollosWalli\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\TAREA PROGRA\PollosWalli\CapaDatos\bin\Debug\CapaDatos.dll
+D:\TAREA PROGRA\PollosWalli\CapaDatos\obj\Debug\CapaDatos.dll

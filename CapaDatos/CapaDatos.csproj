@@ -54,7 +54,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="manager\ManagerClient.cs" />
     <Compile Include="manager\ManagerDb.cs" />
+    <Compile Include="manager\ManagerPedidos.cs" />
+    <Compile Include="manager\ManagerPlatos.cs" />
     <Compile Include="manager\ManagerRol.cs" />
     <Compile Include="manager\ManagerUsuario.cs" />
     <Compile Include="Program.cs" />

@@ -3,3 +3,8 @@ C:\Users\lucho\source\repos\Walli\CapaModelos\bin\Debug\CapaModelos.pdb
 C:\Users\lucho\source\repos\Walli\CapaModelos\obj\Debug\CapaModelos.csprojAssemblyReference.cache
 C:\Users\lucho\source\repos\Walli\CapaModelos\obj\Debug\CapaModelos.dll
 C:\Users\lucho\source\repos\Walli\CapaModelos\obj\Debug\CapaModelos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaModelos\bin\Debug\CapaModelos.dll
+D:\TAREA PROGRA\PollosWalli\CapaModelos\bin\Debug\CapaModelos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaModelos\obj\Debug\CapaModelos.csprojAssemblyReference.cache
+D:\TAREA PROGRA\PollosWalli\CapaModelos\obj\Debug\CapaModelos.dll
+D:\TAREA PROGRA\PollosWalli\CapaModelos\obj\Debug\CapaModelos.pdb

@@ -11,3 +11,16 @@ C:\Users\lucho\source\repos\Walli\CapaLogica\obj\Debug\CapaLogica.csprojAssembly
 C:\Users\lucho\source\repos\Walli\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\lucho\source\repos\Walli\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\lucho\source\repos\Walli\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaLogica.dll
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaModelos.dll
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\EntityFramework.dll
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaModelos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\EntityFramework.xml
+D:\TAREA PROGRA\PollosWalli\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+D:\TAREA PROGRA\PollosWalli\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+D:\TAREA PROGRA\PollosWalli\CapaLogica\obj\Debug\CapaLogica.dll
+D:\TAREA PROGRA\PollosWalli\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaDatos.dll
+D:\TAREA PROGRA\PollosWalli\CapaLogica\bin\Debug\CapaDatos.dll.config

@@ -17,7 +17,8 @@ namespace CapaDatos.manager
         }
         public void Create(Usuario obj)
         {
-            throw new NotImplementedException();
+            WalliContext.Usuarios.Add(obj);
+            WalliContext.SaveChanges();
         }
 
         public void Delete(int id)

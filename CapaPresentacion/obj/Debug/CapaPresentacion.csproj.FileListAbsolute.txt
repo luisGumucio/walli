@@ -26,3 +26,33 @@ C:\Users\lucho\source\repos\Walli\CapaPresentacion\obj\Debug\CapaPresentacion.ex
 C:\Users\lucho\source\repos\Walli\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\lucho\source\repos\Walli\CapaPresentacion\obj\Debug\CajeroWindow.g.cs
 C:\Users\lucho\source\repos\Walli\CapaPresentacion\obj\Debug\CajeroWindow.baml
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaModelos.dll
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\EntityFramework.dll
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaModelos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\EntityFramework.xml
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CajeroWindow.g.cs
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\MainWindow.g.cs
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\App.g.cs
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.cache
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.lref
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CajeroWindow.baml
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\MainWindow.baml
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.g.resources
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CocineroWindow.g.cs
+D:\TAREA PROGRA\PollosWalli\CapaPresentacion\obj\Debug\CocineroWindow.baml

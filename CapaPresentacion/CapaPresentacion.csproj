@@ -69,6 +69,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="CocineroWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -79,6 +83,9 @@
     </Compile>
     <Compile Include="CajeroWindow.xaml.cs">
       <DependentUpon>CajeroWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CocineroWindow.xaml.cs">
+      <DependentUpon>CocineroWindow.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -103,6 +110,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="imagenes\Thumbs.db" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -122,7 +130,6 @@
       <Name>CapaModelos</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <Resource Include="Iconos\icoAlmacen.png" />
     <Resource Include="Iconos\icoAlmacenVer.png" />
@@ -194,6 +201,7 @@
     <Resource Include="imagenes\imgFondoButtonBlue.png" />
     <Resource Include="imagenes\imgFondoButtonMessageBoxCancel.png" />
     <Resource Include="imagenes\imgFondoButtonMessageBoxExit.png" />
+    <Resource Include="imagenes\imgFondoButtonMessageBoxOk.png" />
     <Resource Include="imagenes\imgFondoGrid.png" />
     <Resource Include="imagenes\imgFondoGridAbout.png" />
     <Resource Include="imagenes\imgFondoGridMessageBox.png" />
@@ -226,7 +234,11 @@
     <Resource Include="imagenes\logoGESM.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="imagenes\imgFondoButtonMessageBoxOk.png" />
+    <Resource Include="imagenes\Alitas.jpg" />
+    <Resource Include="imagenes\broaster - copia.png" />
+    <Resource Include="imagenes\kids.jpg" />
+    <Resource Include="imagenes\Nuguets.jpg" />
+    <Resource Include="imagenes\pipocas.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

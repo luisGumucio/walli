@@ -6,7 +6,51 @@
         xmlns:local="clr-namespace:CapaPresentacion"
         mc:Ignorable="d"
         Title="CajeroWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="#FFD8D8D8" Margin="0,0,0,-68">
+        <Button x:Name="BtnPipokids" Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Pipokids" HorizontalAlignment="Left" VerticalAlignment="Top" Width="132" Margin="329,64,0,0" Height="121" RenderTransformOrigin="0.5,0.5" ToolTip="Plato Pollo Broaster" >
+            <Button.Foreground>
+                <ImageBrush/>
+            </Button.Foreground>
+            <Button.Background>
+                <ImageBrush  Stretch="Uniform" ImageSource="imagenes/Alitas.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BtnBroaster" Content="&#xA;Pollo Broaster" HorizontalAlignment="Left" VerticalAlignment="Top" Width="132" Margin="37,64,0,0" Height="121" RenderTransformOrigin="0.5,0.5" ToolTip="Plato Pollo Broaster">
+            <Button.Foreground>
+                <ImageBrush Stretch="Uniform"/>
+            </Button.Foreground>
+            <Button.Background>
+                <ImageBrush  Stretch="Uniform" ImageSource="imagenes/broaster - copia.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BtnPipocas" Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;Pipocas de Pollo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="132" Margin="183,64,0,0" Height="121" RenderTransformOrigin="0.5,0.5" ToolTip="Plato Pollo Broaster" >
+            <Button.Background>
+                <ImageBrush  Stretch="Uniform" ImageSource="imagenes/kids.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BtnWalliCono" Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;WalliNuguets" HorizontalAlignment="Left" VerticalAlignment="Top" Width="132" Margin="475,64,0,0" Height="121" RenderTransformOrigin="0.5,0.5" ToolTip="Plato Pollo Broaster">
+            <Button.Background>
+                <ImageBrush  Stretch="Uniform" ImageSource="imagenes/Nuguets.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BtnWalliAlitas" Content="&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;WalliAlitas" HorizontalAlignment="Left" VerticalAlignment="Top" Width="132" Margin="622,64,0,0" Height="121" RenderTransformOrigin="0.5,0.5" ToolTip="Plato Pollo Broaster" >
+            <Button.Background>
+                <ImageBrush  Stretch="Uniform" ImageSource="imagenes/Alitas.jpg"/>
+            </Button.Background>
+        </Button>
+        <Label Content="Menu de Contenido" HorizontalAlignment="Center" VerticalAlignment="Top" Width="792" FontSize="18" FlowDirection="RightToLeft" HorizontalContentAlignment="Center" TextOptions.TextFormattingMode="Display" FontWeight="Bold" Height="45" VerticalContentAlignment="Center" Foreground="White">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFCF1300" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+        <DataGrid HorizontalAlignment="Left" Height="123" Margin="37,322,0,0" VerticalAlignment="Top" Width="295"/>
+        <Label Content="Cedula de Identidad" HorizontalAlignment="Left" Margin="356,322,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,353,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="356,391,0,0" TextWrapping="Wrap" Text="Cliente" VerticalAlignment="Top" Width="211"/>
+        <Button x:Name="BtnGuardarPedido" Content="Guardar" HorizontalAlignment="Left" Margin="609,457,0,0" VerticalAlignment="Top" Width="75"/>
+
     </Grid>
 </Window>

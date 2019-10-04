@@ -15,9 +15,8 @@ namespace CapaDatos.model
         public int PedidosId { get; set; }
         public DateTime? FechaPedido { get; set; }
         public Estados? Estados { get; set; }
-        public Cliente cliente { get; set; }
-        public Usuario Usuario { get; set; }
-        public Ticket Ticket { get; set; }
-        public ICollection<DetallePedido> DetallePedidos { get; set; }
+        public virtual Cliente cliente { get; set; }
+        public virtual Usuario Usuario { get; set; }
+        public virtual ICollection<DetallePedido> DetallePedidos { get; set; }
     }
 }

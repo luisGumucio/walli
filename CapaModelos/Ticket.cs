@@ -10,5 +10,6 @@ namespace CapaDatos.model
     {
         public int TicketId { get; set; }
         public int Codigo { get; set; }
+        public Pedidos Pedidos { get; set; }
     }
 }

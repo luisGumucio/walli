@@ -13,12 +13,31 @@ namespace CapaDatos
         static void Main(string[] args)
         {
             ManagerRol ctx = new ManagerRol();
-                var rol = new Roles() { NombreRol = "Admin123" };
+            ManagerClient client = new ManagerClient();
+            ManagerUsuario user = new ManagerUsuario();
+            ManagerPedidos pedidosM = new ManagerPedidos();
+            ManagerPlatos managerPlatos = new ManagerPlatos();
+
+
+            var rol = new Roles() { NombreRol = "Cajero" };
                 ctx.Create(rol);
-                foreach(Roles roles in ctx.FindAll())
-                {
-                    Console.WriteLine(roles.NombreRol);
-                }
+            
+            var usuario = new Usuario() { Nombre = "gumu", Password = "gumu123", Roles = rol };
+            user.Create(usuario);
+            var clientes = new Cliente() { Nit = 1233, Nombre = "pepe" };
+            client.Create(clientes);
+            var platos = new Platos() { Nombre = "tranca", Precio = 10 };
+            managerPlatos.Create(platos);
+            var pedidos = new Pedidos()
+            {
+                Usuario = usuario,
+                cliente = clientes,
+                Estados = Estados.INICIO,
+                FechaPedido = DateTime.Now
+            };
+            pedidosM.Create(pedidos);
+
+
         }
     }
 }

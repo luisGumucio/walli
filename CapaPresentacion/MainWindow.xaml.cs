@@ -60,9 +60,14 @@ namespace CapaPresentacion
                 Usuario user = managerCuenta.FindUser(usuario.Nombre);
                 if(user.Roles.NombreRol.Equals("Cajero"))
                 {
-                    CajeroWindow cajero = new CajeroWindow();
+                    CajeroWindow cajero = new CajeroWindow(user);
                     this.Close();
                     cajero.ShowDialog();
+                } else
+                {
+                    CocineroWindow c = new CocineroWindow();
+                    this.Close();
+                    c.ShowDialog();
                 }
             } else
             {
